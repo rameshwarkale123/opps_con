@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.AssemblyInfo.cs
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.exe
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.deps.json
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.runtimeconfig.json
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.dll
+C:\Users\Rameshwar kale\oops_concept\inheri\bin\Debug\netcoreapp3.1\inheri.pdb
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.dll
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.pdb
+C:\Users\Rameshwar kale\oops_concept\inheri\obj\Debug\netcoreapp3.1\inheri.genruntimeconfig.cache
